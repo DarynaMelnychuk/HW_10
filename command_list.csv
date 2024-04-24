@@ -32,3 +32,14 @@
    39  git merge develop
    40  git log
    41  history > command_list.csv
+   42  git add
+   43  git add command_list.csv
+   44  git commit -m"5"
+   45  git push
+   46  git push command_list.csv
+   47  git push
+   48  /Users/gournitai/Desktop/QA35/HW_10 
+   49  git push
+   50  git pull
+   51  git commit
+   52  history > command_list.csv
